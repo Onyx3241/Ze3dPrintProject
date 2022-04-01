@@ -1,0 +1,51 @@
+body,
+div {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.futura-sciences.com%2Ftech%2Fquestions-reponses%2Fimprimante-3d-fonctionne-imprimante-3d-14283%2F&psig=AOvVaw3WQt1t6j1hL6pji_7bU__d&ust=1648885493004000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMihy6Wv8vYCFQAAAAAdAAAAABAD);
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+img {
+  float: left;
+  margin-right: 20px;
+}
+th {
+  width: 200px;
+  border: 1px solid black;
+}
+ul {
+  list-style-type: square;
+}
+
+#entete-de-page {
+  padding: 5px;
+  height: 100px;
+  background-color: lightgrey;
+  font-size: 32px;
+  font-weight: bold;
+  font-variant: small-caps;
+  text-align: center;
+}
+#bloc-menu {
+  height: 36px;
+  background-color: steelblue;
+  float: center;
+  color: white;
+  width: 100%;
+}
+#contenu {
+  padding: 10px;
+  background-color: beige;
+}
+#infos {
+  color: darkblue;
+  font-style: italic;
+}
+#pied-de-page {
+  padding: 5px;
+  background-color: lightgrey;
+  font-size: 12px;
+}
